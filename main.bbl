@@ -1,0 +1,1075 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Conference2023EIDA2023}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://eida.hypotheses.org/conferences/conference}
+      \field{journaltitle}{Eida Hypothèses}
+      \field{title}{Conférence 2023 : {{Towards}} the {{EIDA}} Corpus for the History of Astronomical Diagrams}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Conference2024Graphic2024}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://eida.hypotheses.org/conferences/conference-2024}
+      \field{journaltitle}{Eida Hypothèses}
+      \field{title}{Conférence 2024 : {{Graphic Conventions}}, {{Visual Idioms}}, ({{Dis}}){{Similarity}} in {{Astronomical Diagrams}}}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Conference2025Long2025}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://eida.hypotheses.org/conference-2025}
+      \field{journaltitle}{Eida Hypothèses}
+      \field{title}{Conférence 2025 : {{A}} Long History of Diagrammatization in the Astral Sciences}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{costabelCLAUDEPTOLEMEE90}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7011d111a7023a990eb6a4d51abf89c4}{%
+           family={Costabel},
+           familyi={C\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{fullhash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{fullhashraw}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{bibnamehash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{authorbibnamehash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{authornamehash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{authorfullhash}{7011d111a7023a990eb6a4d51abf89c4}
+      \strng{authorfullhashraw}{7011d111a7023a990eb6a4d51abf89c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le nom de Ptolémée n'est guère connu aujourd'hui qu'en tant qu'il désigne un système : le système astronomique qui plaçait la Terre immobile au centre du monde et dont la mise en question, de Copernic à Newton, a commandé la révolution scientifique. Ce fut pourtant le nom d'une œuvre considérable, dont l'Almageste et ses élaborations astronomiques ne sont qu'une part. Œuvre très étendue – bien différente de l'image caricaturale qui eut longtemps cours –, sorte d'encyclopédie des connaissances d'une époque et qui s'est enrichie avec le temps au point de rendre difficile l'appréciation de son état originel. Œuvre sans cesse recopiée au cours des siècles, passant du grec à l'arabe et au latin, transmise à travers tout le bassin méditerranéen et dominant le Moyen Âge occidental après avoir conquis l'Islām.}
+      \field{annotation}{Level: Avancé}
+      \field{booktitle}{Encyclopædia {{Universalis}}}
+      \field{title}{{{CLAUDE PTOLÉMÉE}} (90 Env.-Env. 168)}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/CHINHGCN/claude-ptolemee.html
+      \endverb
+    \endentry
+    \entry{ptolemeeCommentaireTheonDAlexandrie1822}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d576461c27fa716f529675eba056eb0e}{%
+           family={d'Alenxadrie},
+           familyi={d\bibinitperiod},
+           given={Théon},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e3d26107f1bab576c80b0fbe4517ef4}{%
+           family={Ptolémée},
+           familyi={P\bibinitperiod},
+           given={Claude\bibnamedelimb (0100?-0170?)\bibnamedelima Auteur},
+           giveni={C\bibinitperiod\bibinitdelim (\bibinithyphendelim 0\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={du\bibnamedelima texte},
+           prefixi={d\bibinitperiod\bibinitdelim t\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=f1ec8753f13a78b9ab72061c53a6c7e7}{%
+           family={Fourier},
+           familyi={F\bibinitperiod},
+           given={Jean-Baptiste-Joseph\bibnamedelimb (1768-1830)\bibnamedelima Auteur},
+           giveni={J\bibinithyphendelim B\bibinithyphendelim J\bibinitperiod\bibinitdelim (\bibinithyphendelim 1\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={du\bibnamedelima texte},
+           prefixi={d\bibinitperiod\bibinitdelim t\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=467a7f79e9874c9b1f66c824d4384b7c}{%
+           family={Ideler},
+           familyi={I\bibinitperiod},
+           given={Christian\bibnamedelimb Ludwig\bibnamedelimb (1766-1846)\bibnamedelima Auteur},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim (\bibinithyphendelim 1\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={du\bibnamedelima texte},
+           prefixi={d\bibinitperiod\bibinitdelim t\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{5fc6bc74cf322716f46f19d193ed7ec3}
+      \strng{fullhash}{29fe7618025ed923f710b974f23b6429}
+      \strng{fullhashraw}{29fe7618025ed923f710b974f23b6429}
+      \strng{bibnamehash}{29fe7618025ed923f710b974f23b6429}
+      \strng{authorbibnamehash}{29fe7618025ed923f710b974f23b6429}
+      \strng{authornamehash}{5fc6bc74cf322716f46f19d193ed7ec3}
+      \strng{authorfullhash}{29fe7618025ed923f710b974f23b6429}
+      \strng{authorfullhashraw}{29fe7618025ed923f710b974f23b6429}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Commentaire de Théon d'Alexandrie sur le livre III de l'"Almageste" de Ptolémée. (Suivi des) Tables manuelles des mouvemens des astres. Partie 2 / [Claude Ptolémée] ; trad... du grec... par M. l'abbé Halma,... -- 1822-1825 -- livre}
+      \field{langid}{french}
+      \field{title}{{Commentaire de Théon d'Alexandrie sur le livre III de l'"Almageste" de Ptolémée. (Suivi des) Tables manuelles des mouvemens des astres. Partie 2 / [Claude Ptolémée] ; trad... du grec... par M. l'abbé Halma,...}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{1822-1825}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/A6MC94YU/bpt6k29016x.html
+      \endverb
+    \endentry
+    \entry{Home}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{abstract}{EIDA is an ANR PRC project (ANR-22-CE38-0014) that was awarded during the 2022 session. The project aims at developing a new critique of astronomical diagrams of the 8th-18th centuries found in Chinese, Sanskrit, Persian/Arabic, Greek, Hebrew and Latin sources. This new critique is framed in the context of the digital humanities and will include an … Continue reading "Home"}
+      \field{journaltitle}{EIDA}
+      \field{langid}{american}
+      \field{title}{Home}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/VK2BQ6VZ/eida.hypotheses.org.html
+      \endverb
+    \endentry
+    \entry{jardineCriticalEditingEarlyModern2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=bcd434628465582098ec0c6a2abcdb31}{%
+           family={Jardine},
+           familyi={J\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=7493a198ffc71dd7bac0bce6fbf5052d}{%
+           family={Jardine},
+           familyi={J\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Ltd}%
+      }
+      \strng{namehash}{df55949c8bf3539f27f1484af450827c}
+      \strng{fullhash}{df55949c8bf3539f27f1484af450827c}
+      \strng{fullhashraw}{df55949c8bf3539f27f1484af450827c}
+      \strng{bibnamehash}{df55949c8bf3539f27f1484af450827c}
+      \strng{authorbibnamehash}{df55949c8bf3539f27f1484af450827c}
+      \strng{authornamehash}{df55949c8bf3539f27f1484af450827c}
+      \strng{authorfullhash}{df55949c8bf3539f27f1484af450827c}
+      \strng{authorfullhashraw}{df55949c8bf3539f27f1484af450827c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal for the History of Astronomy}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{Critical {{Editing}} of {{Early-Modern Astronomical Diagrams}}}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{41}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{393\bibrangedash 414}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1177/002182861004100307
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/FG6WLTW8/Jardine et Jardine - 2010 - Critical Editing of Early-Modern Astronomical Diagrams.pdf
+      \endverb
+    \endentry
+    \entry{kalleliEditingAnalysingHistorical2023}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d34e31351233948e3d4d8a2801a01640}{%
+           family={Kalleli},
+           familyi={K\bibinitperiod},
+           given={Syrine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a90075c1084cb5b3d6a1cb40b586ae7}{%
+           family={Trigg},
+           familyi={T\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f5897d60f76c11de1036accafdce252}{%
+           family={Albouy},
+           familyi={A\bibinitperiod},
+           given={Ségolène},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd4d384687f6e3fc88c095b04a12a482}{%
+           family={Gessner},
+           familyi={G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b27d26fc6fda02c6fcd6e2c0247e6fe1}{%
+           family={Husson},
+           familyi={H\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9520cf3d326610c36a727c2b40c80c7b}{%
+           family={Aubry},
+           familyi={A\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79ab94290babd2c590fc1783121a0db8}
+      \strng{fullhash}{be0ae44b1dca3dee56ea6cece068bc18}
+      \strng{fullhashraw}{be0ae44b1dca3dee56ea6cece068bc18}
+      \strng{bibnamehash}{be0ae44b1dca3dee56ea6cece068bc18}
+      \strng{authorbibnamehash}{be0ae44b1dca3dee56ea6cece068bc18}
+      \strng{authornamehash}{79ab94290babd2c590fc1783121a0db8}
+      \strng{authorfullhash}{be0ae44b1dca3dee56ea6cece068bc18}
+      \strng{authorfullhashraw}{be0ae44b1dca3dee56ea6cece068bc18}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The EIDA project explores the historical use of astronomical diagrams across Asia, Africa, and Europe. We aim to develop automatic image analysis tools to analyze and edit these diagrams without human annotation, gaining a refined understanding of their role in shaping and transmitting astronomy. In this paper, we present a baseline method to detects lines and circles in historical diagrams, based on text removal, edge detection and RANSAC. We compare this strong baseline to a deep learning approach based on LETR. This work contributes to historical diagram vectorization, enabling novel methods of comparison and clustering, and offering fresh insights into the vast corpus of astronomical diagrams.}
+      \field{title}{Editing and {{Analysing Historical Astronomical Diagrams}} with {{Artificial Intelligence}}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/5TQSMRHM/Kalleli et al. - 2023 - Editing and Analysing Historical Astronomical Diagrams with Artificial Intelligence.pdf
+      \endverb
+    \endentry
+    \entry{layLabregeLAlmagesteAttribue1990}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fca9d5b43921e8e4647d186eefab4a1}{%
+           family={Lay},
+           familyi={L\bibinitperiod},
+           given={Juliane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {École pratique des hautes études}%
+      }
+      \strng{namehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{bibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorbibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authornamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annuaires de l'École pratique des hautes études}
+      \field{number}{99}
+      \field{title}{L'abrégé de l'{{Almageste}}, Attribué à {{Averroès}}, Dans Sa Version Hébraïque. {{Étude}} de La 1ère Partie}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{103}
+      \field{year}{1990}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{501\bibrangedash 505}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.3406/ephe.1990.14528
+      \endverb
+    \endentry
+    \entry{layAverroesAbregeDastronomie1998}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fca9d5b43921e8e4647d186eefab4a1}{%
+           family={Lay},
+           familyi={L\bibinitperiod},
+           given={Juliane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {École pratique des hautes études}%
+      }
+      \strng{namehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{bibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorbibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authornamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Annuaires de l'École pratique des hautes études}
+      \field{langid}{fre}
+      \field{number}{12}
+      \field{shorttitle}{{Averroès}}
+      \field{title}{{Averroès : abrégé d'astronomie dans la version hébraïque de Jacob Anatoli}}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{129}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{267\bibrangedash 268}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.3406/ephe.1998.10769
+      \endverb
+    \endentry
+    \entry{layAverroesHebraicusInedit2005}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fca9d5b43921e8e4647d186eefab4a1}{%
+           family={Lay},
+           familyi={L\bibinitperiod},
+           given={Juliane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=4ad730cec89e13f953f1d023576f5f02}{%
+           family={Bazzana},
+           familyi={B\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a678d3a22a4a95f50f6017cc0e96ff34}{%
+           family={Bériou},
+           familyi={B\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=72e8c083a1ae12f95b719df481e74ade}{%
+           family={Guichard},
+           familyi={G\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lyon}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Lyon}%
+      }
+      \strng{namehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{fullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{bibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorbibnamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authornamehash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhash}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{authorfullhashraw}{9fca9d5b43921e8e4647d186eefab4a1}
+      \strng{editorbibnamehash}{b4f0a818a00833c344904159a698d74f}
+      \strng{editornamehash}{b4f0a818a00833c344904159a698d74f}
+      \strng{editorfullhash}{b4f0a818a00833c344904159a698d74f}
+      \strng{editorfullhashraw}{b4f0a818a00833c344904159a698d74f}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{Averroès et l’averroïsme : Un itinéraire historique du Haut Atlas à Paris et à Padoue}}
+      \field{isbn}{978-2-7297-1091-0}
+      \field{langid}{french}
+      \field{series}{{Collection d’histoire et d’archéologie médiévales}}
+      \field{shorttitle}{{Un Averroes hebraicus inédit}}
+      \field{title}{{Un Averroes hebraicus inédit~: l'Abrégé de l’Almageste}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{203\bibrangedash 237}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.4000/books.pul.19600
+      \endverb
+    \endentry
+    \entry{malpangottoGraphicalChoicesGeometrical2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=851f42420e9108e78a650f47fd5466ba}{%
+           family={Malpangotto},
+           familyi={M\bibinitperiod},
+           given={Michela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science and Business Media LLC}%
+      }
+      \strng{namehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{fullhash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{fullhashraw}{851f42420e9108e78a650f47fd5466ba}
+      \strng{bibnamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorbibnamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authornamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorfullhash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorfullhashraw}{851f42420e9108e78a650f47fd5466ba}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Spherical geometry studies the sphere not simply as a solid object in itself, but chiefly as the spatial context of the elements which interact on it in a complex threedimensional arrangement. This compels to establish graphical conventions appropriate for rendering on the same plane—the plane of the diagram itself—the spatial arrangement of the objects under consideration. We will investigate such “graphical choices” made in the Theodosius’ Spherics from antiquity to the Renaissance. Rather than undertaking a minute analysis of every particular element or single variant, we will try to uncover the more general message each author attempted to convey through his particular graphical choices. From this analysis, it emerges that the different kinds of representation are not the result of merely formal requirements but mirror substantial geometrical requirements expressing different ways of interpreting the sphere and testify to different ways of reasoning about the elements that interact on it.}
+      \field{issn}{0003-9519, 1432-0657}
+      \field{journaltitle}{Archive for History of Exact Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Graphical {{Choices}} and {{Geometrical Thought}} in the {{Transmission}} of {{Theodosius}}’ {{Spherics}} from {{Antiquity}} to the {{Renaissance}}}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{64}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{75\bibrangedash 112}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1007/s00407-009-0054-1
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/7GPSPSP3/Malpangotto - 2010 - Graphical Choices and Geometrical Thought in the Transmission of Theodosius’ Spherics from Antiquity.pdf
+      \endverb
+    \endentry
+    \entry{malpangottoGraphicalChoicesGeometrical2010a}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=851f42420e9108e78a650f47fd5466ba}{%
+           family={Malpangotto},
+           familyi={M\bibinitperiod},
+           given={Michela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science and Business Media LLC}%
+      }
+      \strng{namehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{fullhash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{fullhashraw}{851f42420e9108e78a650f47fd5466ba}
+      \strng{bibnamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorbibnamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authornamehash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorfullhash}{851f42420e9108e78a650f47fd5466ba}
+      \strng{authorfullhashraw}{851f42420e9108e78a650f47fd5466ba}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Spherical geometry studies the sphere not simply as a solid object in itself, but chiefly as the spatial context of the elements which interact on it in a complex threedimensional arrangement. This compels to establish graphical conventions appropriate for rendering on the same plane—the plane of the diagram itself—the spatial arrangement of the objects under consideration. We will investigate such “graphical choices” made in the Theodosius’ Spherics from antiquity to the Renaissance. Rather than undertaking a minute analysis of every particular element or single variant, we will try to uncover the more general message each author attempted to convey through his particular graphical choices. From this analysis, it emerges that the different kinds of representation are not the result of merely formal requirements but mirror substantial geometrical requirements expressing different ways of interpreting the sphere and testify to different ways of reasoning about the elements that interact on it.}
+      \field{issn}{0003-9519, 1432-0657}
+      \field{journaltitle}{Archive for History of Exact Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Graphical {{Choices}} and {{Geometrical Thought}} in the {{Transmission}} of {{Theodosius}}’ {{Spherics}} from {{Antiquity}} to the {{Renaissance}}}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{64}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{75\bibrangedash 112}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1007/s00407-009-0054-1
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/ED3MKXMF/Malpangotto - 2010 - Graphical Choices and Geometrical Thought in the Transmission of Theodosius’ Spherics from Antiquity.pdf
+      \endverb
+    \endentry
+    \entry{meyerPAPPUS1999}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f36e3c7f5891b59d6ead678f1a0ca2d}{%
+           family={MEYER},
+           familyi={M\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Encyclopædia Universalis}%
+      }
+      \strng{namehash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{fullhash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{fullhashraw}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{bibnamehash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{authorbibnamehash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{authornamehash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{authorfullhash}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \strng{authorfullhashraw}{0f36e3c7f5891b59d6ead678f1a0ca2d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Né probablement à Alexandrie vers 320, Pappus fut le dernier grand mathématicien de l'école d'Alexandrie. Son œuvre, moins considérable que celles d'Euclide, d'Archimède et d'Apollonios (écrites plus de cinq cents ans auparavant), mais venant après une longue période où les recherches s'étaient limitées à l'astronomie, à la trigonométrie et à l'algèbre, sut donner un nouvel essor à la géométrie.}
+      \field{annotation}{Level: Avancé}
+      \field{booktitle}{{Encyclopædia Universalis}}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{title}{{PAPPUS}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/ULMDJEQ7/pappus.html
+      \endverb
+    \endentry
+    \entry{pouliquenUsingLatticesReconstructing}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06771d57571dca4a2ff259ac83c7fd2e}{%
+           family={Pouliquen},
+           familyi={P\bibinitperiod},
+           given={Marc\bibnamedelima Le},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{fullhash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{fullhashraw}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{bibnamehash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{authorbibnamehash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{authornamehash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{authorfullhash}{06771d57571dca4a2ff259ac83c7fd2e}
+      \strng{authorfullhashraw}{06771d57571dca4a2ff259ac83c7fd2e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The product of textual criticism is an edited text that the editor believes comes as close as possible to a lost original manuscript called the archetype. Usually, the editor compares different manuscripts of a single text, and represents it as an inverted tree showing all the steps in the transmission of a specific text, reconstructed by establishing relationships with other manuscripts. This tree is called the “stemma codicum”(cf. [7]). Because of the graphic proximity of the stemma with a semi-lattice, we propose to use two lattice construction techniques in order to reconstitute the filiation tree of manuscripts. First, we try the traditional methods to build the lattice of a binary relation (cf. [13]). Then a more specific solution to the problem is proposed. These techniques are finally tested on a real corpus of manuscripts by Rimbaud, “Les Effare´s” (cf. [17]).}
+      \field{langid}{english}
+      \field{title}{Using Lattices for Reconstructing Stemma}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/8BRN8QRG/Pouliquen - Using lattices for reconstructing stemma.pdf
+      \endverb
+    \endentry
+    \entry{ptolemaeusPtolomeusAlmagestumTransl1213}{unpublished}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5b89f4e9655e05538a62503d07cde9f5}{%
+           family={Ptolemaeus},
+           familyi={P\bibinitperiod},
+           given={Claudius\bibnamedelimb (0100?-0170?)\bibnamedelima Auteur},
+           giveni={C\bibinitperiod\bibinitdelim (\bibinithyphendelim 0\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={du\bibnamedelima texte},
+           prefixi={d\bibinitperiod\bibinitdelim t\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=9ba345fcba24ead0355e2d632f85a307}{%
+           family={Traducteur},
+           familyi={T\bibinitperiod},
+           given={Gerardus\bibnamedelimb Cremonensis\bibnamedelima (1114-1187)},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim (\bibinithyphendelim 1\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae491366405e200dd87038a2d59b8df}{%
+           family={Enlumineur},
+           familyi={E\bibinitperiod},
+           given={Maître\bibnamedelimb de\bibnamedelimb l’Almageste\bibnamedelimb (ou\bibnamedelimb Maître\bibnamedelimb du\bibnamedelimb Ptolémée\bibnamedelimb de\bibnamedelimb la\bibnamedelima Sorbonne)},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{fullhash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{fullhashraw}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{bibnamehash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{authorbibnamehash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{authornamehash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{authorfullhash}{bec764be5779b6910fe51a8fc55270d8}
+      \strng{authorfullhashraw}{bec764be5779b6910fe51a8fc55270d8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ptolomeus, Almagestum, transl. a Gerardo Cremonense -- 1213 -- manuscrits}
+      \field{title}{Ptolomeus, {{Almagestum}}, Transl. a {{Gerardo Cremonense}}}
+      \field{type}{Manuscript}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{1213}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/C57AEQCT/btv1b525094719.html
+      \endverb
+    \endentry
+    \entry{raymondjonesPtolemyAccomplishmentsBiography2025}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7688bc010715e7d1f417c7faeebbc425}{%
+           family={Raymond\bibnamedelima Jones},
+           familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{fullhash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{fullhashraw}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{bibnamehash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{authorbibnamehash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{authornamehash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{authorfullhash}{7688bc010715e7d1f417c7faeebbc425}
+      \strng{authorfullhashraw}{7688bc010715e7d1f417c7faeebbc425}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ptolemy was an astronomer, mathematician, and geographer who lived during the 2nd century CE. He is known for his geocentric (Earth-centred) model of the universe.}
+      \field{booktitle}{Encyclopaedia {{Britannica}}}
+      \field{month}{5}
+      \field{title}{Ptolemy | {{Accomplishments}}, {{Biography}}, \& {{Facts}} | {{Britannica}}}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/JWUBFXX8/Ptolemy.html
+      \endverb
+    \endentry
+    \entry{raynaudBuildingStemmaCodicum2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=debe2e413aa856b4ffb4e542194cf896}{%
+           family={Raynaud},
+           familyi={R\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{fullhash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{fullhashraw}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{bibnamehash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{authorbibnamehash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{authornamehash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{authorfullhash}{debe2e413aa856b4ffb4e542194cf896}
+      \strng{authorfullhashraw}{debe2e413aa856b4ffb4e542194cf896}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{PDF | In view of the progress made in recent decades in the fields of stemmatology and the analysis of geometric diagrams, the present article explores... | Find, read and cite all the research you need on ResearchGate}
+      \field{journaltitle}{Archive for History of Exact Sciences}
+      \field{month}{3}
+      \field{shorttitle}{Building the Stemma Codicum from Geometric Diagrams}
+      \field{title}{Building the Stemma Codicum from Geometric Diagrams: {{A}} Treatise on Optics by {{Ibn}} al-{{Haytham}} as a Test Case}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/s00407-013-0134-0
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/VP9PCWY4/263337787_Building_the_stemma_codicum_from_geometric_diagrams_A_treatise_on_optics_by_Ibn_al-Ha.html
+      \endverb
+    \endentry
+    \entry{saitoTraditionsDiagramTradition2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70c0091f6e355a8a11e7065e63328102}{%
+           family={Saito},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{fullhash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{fullhashraw}{70c0091f6e355a8a11e7065e63328102}
+      \strng{bibnamehash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{authorbibnamehash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{authornamehash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{authorfullhash}{70c0091f6e355a8a11e7065e63328102}
+      \strng{authorfullhashraw}{70c0091f6e355a8a11e7065e63328102}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{After explaining general characteristics such as overspecification, found in the diagrams of Greek manuscripts of Euclid's Elements, diagrams in some propositions of Book III are examined in detail. Codex P (Vat. gr. 190) and b (Bologna) are common in avoiding overspecification in a couple of propositions. However, further examination of diagrams of Book III in other manuscripts including those in the Arabic tradition, and collation of the text suggest that the common feature in the diagrams of codex P and b is rather due either to independent efforts to avoid overspecification or to contamination of traditions. It is codex F (Florence, Laurenziana 28.3) that most often coincides with codex P in Book III.}
+      \field{eprinttype}{jstor}
+      \field{issn}{0039-7857}
+      \field{journaltitle}{Synthese}
+      \field{number}{1}
+      \field{shorttitle}{Traditions of the Diagram, Tradition of the Text}
+      \field{title}{Traditions of the Diagram, Tradition of the Text: {{A}} Case Study}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{186}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{7\bibrangedash 20}
+      \range{pages}{14}
+      \verb{eprint}
+      \verb 41494921
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/GNJGH7XC/Saito - 2012 - Traditions of the diagram, tradition of the text A case study.pdf
+      \endverb
+    \endentry
+    \entry{shenDiscoveringVisualPatterns2019}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=35daeb16d4f476168e663b0c1cbee0cb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a663b27298722834a8cf09bb93d8c94}{%
+           family={Efros},
+           familyi={E\bibinitperiod},
+           given={Alexei\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9520cf3d326610c36a727c2b40c80c7b}{%
+           family={Aubry},
+           familyi={A\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{fullhash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{fullhashraw}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{bibnamehash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{authorbibnamehash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{authornamehash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{authorfullhash}{40727b99e0e69be9f6794fffa9dd45c6}
+      \strng{authorfullhashraw}{40727b99e0e69be9f6794fffa9dd45c6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our goal in this paper is to discover near duplicate patterns in large collections of artworks. This is harder than standard instance mining due to differences in the artistic media (oil, pastel, drawing, etc), and imperfections inherent in the copying process. Our key technical insight is to adapt a standard deep feature to this task by fine-tuning it on the specific art collection using self-supervised learning. More specifically, spatial consistency between neighbouring feature matches is used as supervisory fine-tuning signal. The adapted feature leads to more accurate style-invariant matching, and can be used with a standard discovery approach, based on geometric verification, to identify duplicate patterns in the dataset. The approach is evaluated on several different datasets and shows surprisingly good qualitative discovery results. For quantitative evaluation of the method, we annotated 273 near duplicate details in a dataset of 1587 artworks attributed to Jan Brueghel and his workshop1. Beyond artworks, we also demonstrate improvement on localization on the Oxford5K photo dataset as well as on historical photograph localization on the Large Time Lags Location (LTLL) dataset.}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
+      \field{month}{3}
+      \field{number}{arXiv:1903.02678}
+      \field{title}{Discovering {{Visual Patterns}} in {{Art Collections}} with {{Spatially-consistent Feature Learning}}}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.1903.02678
+      \endverb
+      \verb{eprint}
+      \verb 1903.02678
+      \endverb
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/TZ7ALDPK/Shen et al. - 2019 - Discovering Visual Patterns in Art Collections with Spatially-consistent Feature Learning.pdf
+      \endverb
+      \keyw{Computer Science - Computer Vision and Pattern Recognition}
+    \endentry
+    \entry{tassyCLADISTIQUE2012}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b21d67f888e86b676e303b5092fcd40b}{%
+           family={TASSY},
+           familyi={T\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Encyclopædia Universalis}%
+      }
+      \strng{namehash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{fullhash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{fullhashraw}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{bibnamehash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{authorbibnamehash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{authornamehash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{authorfullhash}{b21d67f888e86b676e303b5092fcd40b}
+      \strng{authorfullhashraw}{b21d67f888e86b676e303b5092fcd40b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La cladistique, ou cladisme, est une méthode de classification biologique qui exprime la phylogénie, c'est-à-dire les relations de parenté existant entre les êtres vivants. Elle repose sur le partage de caractères hérités d'une ascendance commune (ancêtre commun). Élaborée au cours du XXe siècle, la cladistique est venue bouleverser la classification classique, alors fondée sur de simples ressemblances (appartenance à un même biotope, même mode d'alimentation...). Ce changement est tel que certains regroupements comme les invertébrés, les reptiles et les poissons ont disparu de cette nouvelle classification car ils n'expriment pas la phylogénie.}
+      \field{annotation}{Level: Avancé}
+      \field{booktitle}{{Encyclopædia Universalis}}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{{CLADISTIQUE}}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/FM59SI99/cladistique.html
+      \endverb
+    \endentry
+    \entry{texteTHryrlmjsTRemaniement1401}{unpublished}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3e116796414bc7acc1bbe69b98658a31}{%
+           family={{texte}},
+           familyi={t\bibinitperiod},
+           given={MUḤAMMAD\bibnamedelimb ibn\bibnamedelimb Muḥammad\bibnamedelimb al-Ṭūsī\bibnamedelimb (Naṣīr\bibnamedelimb al-Dīn\bibnamedelimb Abū\bibnamedelimb Ğaʿfar)\bibnamedelima Auteur},
+           giveni={M\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Ṭ\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Ğ\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1,
+           prefix={du},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=1,uniquepart=given,hash=b848d65d24157096f5746ca387988a59}{%
+           family={{texte}},
+           familyi={t\bibinitperiod},
+           given={PTOLÉMÉE\bibnamedelima Auteur},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1,
+           prefix={du},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{fullhash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{fullhashraw}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{bibnamehash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{authorbibnamehash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{authornamehash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{authorfullhash}{5ff63eae5c66246c37427b9579eacbfb}
+      \strng{authorfullhashraw}{5ff63eae5c66246c37427b9579eacbfb}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{تحرير المجسطى « Remaniement de l'Almageste », par Naṣîr al-Dîn Moḥammad ibn Moḥammad al-Ṭoûsî. -- 1401-1500 -- manuscrits}
+      \field{langid}{french}
+      \field{title}{{تحرير المجسطى « Remaniement de l'Almageste », par Naṣîr al-Dîn Moḥammad ibn Moḥammad al-Ṭoûsî.}}
+      \field{type}{{manuscript}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{1401-1500}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/6N5IVYI9/btv1b52511308q.html
+      \endverb
+    \endentry
+    \entry{tihonLivreRetrouveCommentaire1987}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e1ac245d3425a78d10882f47a611f29}{%
+           family={Tihon},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {L'Antiquité Classique}%
+      }
+      \strng{namehash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{fullhash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{fullhashraw}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{bibnamehash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{authorbibnamehash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{authornamehash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{authorfullhash}{7e1ac245d3425a78d10882f47a611f29}
+      \strng{authorfullhashraw}{7e1ac245d3425a78d10882f47a611f29}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le livre V du Commentaire à l'Almageste de Théon d'Alexandrie (ca 364 p. C.) était considéré comme perdu à l'exception de quelques chapitres. L'auteur a retrouvé la presque totalité du Livre V en marge de l'Almageste dans le Vaticanus gr. 198. L'article donne la liste des chapitres et analyse l'exemple du calcul de la longitude de la Lune pris le 5 janvier 323 p. C.}
+      \field{journaltitle}{L'Antiquité Classique}
+      \field{number}{1}
+      \field{title}{Le Livre {{V}} Retrouvé Du {{Commentaire}} à l'{{Almageste}} de {{Théon}} d'{{Alexandrie}}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{56}
+      \field{year}{1987}
+      \field{urldateera}{ce}
+      \field{pages}{201\bibrangedash 218}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3406/antiq.1987.2208
+      \endverb
+    \endentry
+    \entry{TraductionLatineLAlmageste}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ce manuscrit de l’Almageste de Claude Ptolémée, traduit en latin par Gérard de Crémone (1114-1187), a été copié à Paris en 1213 et annoté avec soin. L’initiale...}
+      \field{howpublished}{https://essentiels.bnf.fr/fr/image/9c790ae1-7ad3-47dc-96d3-82aaf7eaf2df-traduction-latine-lalmageste-ptolemee-par-gerard-cremone}
+      \field{journaltitle}{BnF Essentiels}
+      \field{langid}{french}
+      \field{title}{{Traduction latine de l'Almageste de Ptolémée par Gérard de Crémone}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/5WJGU8G2/9c790ae1-7ad3-47dc-96d3-82aaf7eaf2df-traduction-latine-lalmageste-ptolemee-par-gerard-cremone.html
+      \endverb
+    \endentry
+    \entry{universalisMOHAMMADNASIRALDIN2008}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9ea4b009b6170b3b17769cadfed523b}{%
+           family={Universalis},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Encyclopædia Universalis}%
+      }
+      \strng{namehash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{fullhash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{fullhashraw}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{bibnamehash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{authorbibnamehash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{authornamehash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{authorfullhash}{e9ea4b009b6170b3b17769cadfed523b}
+      \strng{authorfullhashraw}{e9ea4b009b6170b3b17769cadfed523b}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mohammad Nasir al-Din al-Tūsi est un philosophe, scientifique et mathématicien persan, né le 18 février 1201 à Tūs (Tous) au nord-est de l’Iran (auj. province du Khorasan-e Razavi) et mort le 26 juin 1274 à Bagdad.}
+      \field{annotation}{Level: Avancé}
+      \field{booktitle}{{Encyclopædia Universalis}}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{title}{{MOḤAMMAD NAṢĪR AL-DĪN AL ṬŪSĪ - (1201-1274)}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/9YKCVEU5/mohammad-nasir-al-din-al-tusi-1201-1274.html
+      \endverb
+    \endentry
+    \entry{verdetHELIOCENTRISME2008}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94a194678ad5e049edce32e5427d5e37}{%
+           family={VERDET},
+           familyi={V\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Encyclopædia Universalis}%
+      }
+      \strng{namehash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{fullhash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{fullhashraw}{94a194678ad5e049edce32e5427d5e37}
+      \strng{bibnamehash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{authorbibnamehash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{authornamehash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{authorfullhash}{94a194678ad5e049edce32e5427d5e37}
+      \strng{authorfullhashraw}{94a194678ad5e049edce32e5427d5e37}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On désigne par héliocentrisme le système cosmologique qui place le Soleil au centre du monde, la Terre prenant sa place entre Vénus et Mars, tournant sur elle-même et faisant une révolution autour du Soleil comme les autres planètes.}
+      \field{annotation}{Level: Avancé}
+      \field{booktitle}{{Encyclopædia Universalis}}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{title}{{HÉLIOCENTRISME}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/lucie-ledieu/snap/zotero-snap/common/Zotero/storage/8RKS385Y/heliocentrisme.html
+      \endverb
+    \endentry
+    \entry{verdetLaubeLastronomieLaurore1990}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=37d1c0c9052401ac15d402c2af49e5e9}{%
+           family={Verdet},
+           familyi={V\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Editions du Seuil}%
+      }
+      \strng{namehash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{fullhash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{fullhashraw}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{bibnamehash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{authorbibnamehash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{authornamehash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{authorfullhash}{37d1c0c9052401ac15d402c2af49e5e9}
+      \strng{authorfullhashraw}{37d1c0c9052401ac15d402c2af49e5e9}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Une Histoire de l'astronomie}
+      \field{series}{Points}
+      \field{title}{De l'aube de l'astronomie à l'aurore de l'astrophysique}
+      \field{year}{1990}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

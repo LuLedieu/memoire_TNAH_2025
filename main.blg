@@ -1,0 +1,18 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[65] biber:340> INFO - === ven. juil. 25, 2025, 15:38:00
+[80] Biber.pm:420> INFO - Reading 'main.bcf'
+[137] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[145] Biber.pm:4463> INFO - Processing section 0
+[151] Biber.pm:4654> INFO - Looking for bibtex file 'bibliographie/biblio_astro.bib' for section 0
+[153] bibtex.pm:1713> INFO - LaTeX decoding ...
+[172] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie/biblio_astro.bib'
+[262] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[262] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[262] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[262] Biber.pm:4289> INFO - No sort tailoring available for locale 'fr-FR'
+[274] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[280] bbl.pm:779> INFO - Output to main.bbl
+[280] Biber.pm:131> WARN - legacy year field '1822-1825' in entry 'ptolemeeCommentaireTheonDAlexandrie1822' is not an integer - this will probably not sort properly.
+[280] Biber.pm:131> WARN - legacy year field '1401-1500' in entry 'texteTHryrlmjsTRemaniement1401' is not an integer - this will probably not sort properly.
+[280] Biber.pm:133> INFO - WARNINGS: 2
